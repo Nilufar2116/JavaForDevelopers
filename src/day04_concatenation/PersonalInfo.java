@@ -24,7 +24,7 @@ Create a class named PersonalInfo, and declare the variables with the appropriat
               favoriteMusic = "Nasheed",
               favoriteBook = "Show Mercy",
               favoriteTvShow = "Suits",
-              favoriteColor = "green";
+              favoriteColor = "green!";
 
       char gender = 'F';
       int age = 30;
