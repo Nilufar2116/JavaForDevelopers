@@ -48,5 +48,4 @@ Create a class named PersonalInfo, and declare the variables with the appropriat
 
     }
 
-
 }
