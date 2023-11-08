@@ -70,6 +70,7 @@ public class ShorthandOperators {
         int b = 39;
         b %= 7; // variable b will be reassigned to b = 39 % 7
         System.out.println(b);
+        System.out.println(b);
 
 
 
