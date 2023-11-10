@@ -24,7 +24,7 @@ public class PrimitiveDataTypesIntro2 {
         System.out.println(ch2);
 
         //char ch3 = 80000; // out of char's range
-        char ch3 = 4000;
+        char ch3 = 251;
 
         System.out.println(ch3);// gives character
 

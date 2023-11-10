@@ -39,10 +39,6 @@ public class IfStatementIntro {
              System.out.println(num + " is zero ");
          }
 
-
-
-
-
     }
 
 
